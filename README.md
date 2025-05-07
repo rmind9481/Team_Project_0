@@ -20,11 +20,12 @@
 Python
 
 📁 프로젝트 구조
+
 '''
 project/
-├── omok_func.py
-├── main.py
-└── README.md
+├── omok_func.py/
+├── main.py/
+└── README.md/
 '''
 
 📈 주요 결과
