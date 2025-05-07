@@ -19,14 +19,15 @@
 🛠 사용 기술
 Python
 
-📁 프로젝트 구조
 
-'''
+## 📁 프로젝트 구조
+
+```
 project/
-├── omok_func.py/
-├── main.py/
-└── README.md/
-'''
+├── omok_func.py
+├── main.py
+└── README.md
+```
 
 📈 주요 결과
 파이썬을 활용하여 기본적인 게임 로직을 구현하였습니다.
